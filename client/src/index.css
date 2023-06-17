@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body, html, #root{
+  background-color: #fff;
+  height: 100%;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+.pointer{
+  cursor: pointer;
+}
+
+.icon_margin-right{
+  margin-right: 5px;
+}
+
+.bi{
+  color: #fff;
+}
